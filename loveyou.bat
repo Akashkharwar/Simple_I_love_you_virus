@@ -5,7 +5,7 @@ set /p love=
 if %love%==yes goto love
 if %love%==no goto hate
 :love
-echo I love you too...
+echo I love you too vamp...
 echo Meet you soon :)
 pause 
 exit
